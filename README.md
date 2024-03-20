@@ -10,7 +10,7 @@
 
 💼 I'm currently employed at a company where I work with Python and Go. Additionally, I'm actively engaged in a React project.
 
-🎮 In my spare time, I'm exploring Godot and diving into game development.
+🔒 In my spare time, I'm exploring Cybersecurity, and want to dive into bug bounty.
 
 Let's connect and build amazing things together!
 
