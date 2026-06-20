@@ -1,15 +1,18 @@
-👋 Hi, I'm **@dmelim**, a passionate Full-Stack Developer working remotely.
+👋 Hi, I'm Diogo, a full-stack developer, creator, and builder behind Digital Dimension and Diethos.
 
-💻 I specialize in modern web development with **Go, JavaScript, TypeScript**, and **React**—currently building advanced tools using **React**, **Next.js**, and custom UI components.
+💻 I work with JavaScript, TypeScript, Go, Python, React, and Next.js, building practical tools, web apps, and experiments around AI, developer workflows, and cybersecurity.
 
-📊 With a background in **data analysis**, I enjoy merging backend logic with meaningful insights.
+🧭 Through Diethos, I focus on simple, useful technology: products that solve real problems without unnecessary hype.
 
-🔐 I'm also exploring **cybersecurity**, having completed the **Google Cybersecurity Professional Certificate**.
+📽️ Through Digital Dimension, I create content about programming, AI tools, tech trends, and the messy reality of building things as a developer.
 
-📽️ I run [**Digital Dimension**](https://www.youtube.com/@DigitalDimension7) on YouTube, where I break down coding concepts and build fun, creative tech projects to help others level up.
+📊 With a background in data analysis, I enjoy connecting backend logic, clean interfaces, and meaningful insights.
 
-🧪 Currently working through my personal project backlog (and graveyard 👻).
+🔐 I’m also interested in cybersecurity and have completed the Google Cybersecurity Professional Certificate.
 
-🤝 Open to collaborating on **open-source projects**—especially with **JavaScript**, **Go**, or **Python**. Simple ideas welcome!
+🧪 Currently building, testing, learning, and working through my personal project backlog.
 
-📫 Reach me at **[dmpmelim@gmail.com](mailto:dmpmelim@gmail.com)** for collaboration or freelance work.
+🤝 Open to collaborating on open-source projects, practical tools, and simple ideas using JavaScript, Go, Python, or TypeScript.
+
+🌐 Website: https://diethos.com/
+📫 Contact: [studio.diethos@gmail.com](mailto:studio.diethos@gmail.com)
