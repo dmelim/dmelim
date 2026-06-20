@@ -14,5 +14,6 @@
 
 🤝 Open to collaborating on open-source projects, practical tools, and simple ideas using JavaScript, Go, Python, or TypeScript.
 
-🌐 Website: https://diethos.com/
+🌐 Diethos: https://diethos.com/
+📽️ YouTube: https://www.youtube.com/@DigitalDimension7
 📫 Contact: [studio.diethos@gmail.com](mailto:studio.diethos@gmail.com)
